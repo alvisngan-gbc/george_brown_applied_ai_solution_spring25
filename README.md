@@ -11,9 +11,9 @@
 ## Jun 2<sup>nd</sup> to Jun 20<sup>th</sup>
 |  | Mon | Tue | Wed | Thu | Fri |
 | --- | --- | --- | --- | --- | --- |
-| Course | Foundation of Data Management | Design Thinking for AI Solution | Foundation of Data Management | Design Thinking for AI Solution | Foundation of Data Management |
+| Course | [Foundations of Data Management](./syllabus/CSI_AASD_4002_Foundations_of_Data_Management.pdf) | Design Thinking for AI Solution | [Foundations of Data Management](./syllabus/CSI_AASD_4002_Foundations_of_Data_Management.pdf) | Design Thinking for AI Solution | [Foundations of Data Management](./syllabus/CSI_AASD_4002_Foundations_of_Data_Management.pdf) |
 | Time | 6:00pm - 9:59pm | 6:00pm - 9:59pm | 6:00pm - 9:59pm | 6:00pm - 9:59pm | 6:00pm - 9:59pm | 
-| Room | C544 <br> C416 | C544 <br> C416 | C544 <br> C416 | C544 <br> C416 | C544 <br> C416 |
+| Room | C544 <br> C416* <br> [(*see syllabus)](./syllabus/CSI_AASD_4002_Foundations_of_Data_Management.pdf) | C544 <br> C416 | C544 <br> C416* <br> [(*see syllabus)](./syllabus/CSI_AASD_4002_Foundations_of_Data_Management.pdf) | C544 <br> C416 | C544 <br> C416* <br> [(*see syllabus)](./syllabus/CSI_AASD_4002_Foundations_of_Data_Management.pdf) |
 | Instructor | Daniel Vitaver | Reza Moslemi | Daniel Vitaver | Reza Moslemi | Daniel Vitaver |
 
 ## Jun 30<sup>th</sup> to Jul 25<sup>th</sup>
